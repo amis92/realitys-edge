@@ -14,7 +14,7 @@ Reality's Edge: Cyberpunk Skirmish Rules
 * [Important][]
 * [Overview][]
 * [Links][]
-
+.
 ## Important ##
 [Important]: #important
 
