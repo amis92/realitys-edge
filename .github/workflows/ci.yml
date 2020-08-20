@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - uses: BSData/check-datafiles@v1
+    - uses: BSData/check-datafiles@master
       id: check
 
     - uses: actions/upload-artifact@v1
